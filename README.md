@@ -1,3 +1,3 @@
 # hello-world
 
-repositório feito para treinamento de implementação de clonagem com autentificação ssh 
+repositório feito para teste de clonagem com autentificação ssh 
